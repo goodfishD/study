@@ -3,3 +3,4 @@ git config --global user.name""
 git config --global user.email""
 
 add new branch 
+modify study branch again
