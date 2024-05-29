@@ -1,3 +1,5 @@
 git add -A
 ls 显示文档
 如果git add file 不行，复制粘贴ls中的文件名
+
+练习添加分支
