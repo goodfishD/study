@@ -6,3 +6,7 @@ present emergency
 add new branch 
 modify study branch again
 
+git pull origin=
+git fetch origin add git merge origin/master
+git status
+git log origin/master-->escape use 'q'
